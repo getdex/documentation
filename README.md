@@ -5,7 +5,6 @@
 - Navigation
 - Customizations
 - API Reference pages
-- Use of popular components
 
 ### Development
 
